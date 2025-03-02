@@ -80,7 +80,7 @@ Sorting data        |   13.993 |        49.973 |                  3.571x
 ### Compilation
 ```bash
 # Using g++
-g++ -std=c++17 -O3 map_performance_comparison.cpp -o map_benchmark
+g++ -std=c++17 -O3 map_benchmark.cpp -o map_benchmark
 
 # Using CMake
 mkdir build && cd build
